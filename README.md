@@ -11,10 +11,9 @@ const { CommandClient } = require('discord.js-snake');
 
 let client = new CommandClient({ prefix: '?' }, clientOptions);
 
-client.command('ship', '<x: member> <y: member>', ctx => {
-  const { x, y } = ctx.args;
-  ctx.send(`A lovely pairing~ ${x.displayName} ♥️ ${y.displayName}`)
-}, 'Ship people.')
+client.command('ship', '<x:member> <y:member>', (ctx, x, y) => {
+  ctx.send(`A lovely pairing~ ${x.displayName} ♥️ ${y.displayName}`);
+}, 'Ship people.');
 
 client.login('...');
 ```
