@@ -1,7 +1,7 @@
 {
   "name": "discord.js-snake",
   "version": "0.0.0",
-  "description": "Discord.py ext.commands style command parsing for Discord.js.",
+  "description": "Simple, expressive, and minimal command parsing for Discord.js.",
   "main": "lib/main.js",
   "directories": {
     "lib": "lib"
