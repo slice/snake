@@ -1,5 +1,8 @@
 # 🐍 snake
 
+![Build status](https://travis-ci.org/slice/snake.svg?branch=master)
+
+
 Discord.py's command system, but for Discord.js. Based off of [this rejected pull request][rejected-pr].
 
 [rejected-pr]: https://github.com/hydrabolt/discord.js/pull/1485
