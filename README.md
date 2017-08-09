@@ -4,6 +4,10 @@ Discord.py's command system, but for Discord.js. Based off of [this rejected pul
 
 [rejected-pr]: https://github.com/hydrabolt/discord.js/pull/1485
 
+## Warning!
+
+snake is not feature complete. It is not recommended that you use it for your bots.
+
 ## Getting Started
 
 ```js
