@@ -24,3 +24,7 @@ client.login('...');
 
 - Gus Caplan (@devsnek)
   - For writing the original code and giving me inspiration.
+- Danny (@Rapptz)
+  - For writing a kickass command framework that this ended up becoming a copy of.
+- Amish Shah (@hydrabolt)
+  - Do I really have to explain this one?
