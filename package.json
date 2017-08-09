@@ -2,7 +2,7 @@
   "name": "discord.js-snake",
   "version": "0.0.0",
   "description": "Simple, expressive, and minimal command parsing for Discord.js.",
-  "main": "lib/main.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },

@@ -1,6 +1,6 @@
 import test from 'ava'
 
-import { CommandContext } from 'discord.js-snake'
+import { CommandContext } from '../lib'
 
 test('reply() works', t => {
   let ctx = new CommandContext({

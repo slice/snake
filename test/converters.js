@@ -1,6 +1,6 @@
 import test from 'ava'
 
-import { converters, errors } from 'discord.js-snake'
+import { converters, errors } from '../lib'
 
 test('IntConverter works', async t => {
   let converter = new converters.int(null, '50') // eslint-disable-line new-cap

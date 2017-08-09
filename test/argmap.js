@@ -1,6 +1,6 @@
 import test from 'ava'
 
-import { parser } from 'discord.js-snake'
+import { parser } from '../lib'
 
 test('parser handles optional arguments', t => {
   t.deepEqual(parser.parseArgMap('[a] [b]'), [
