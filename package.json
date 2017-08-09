@@ -20,7 +20,7 @@
     "eslint-plugin-standard": "^3.0.1"
   },
   "scripts": {
-    "test": "ava"
+    "test": "eslint . && ava"
   },
   "keywords": [
     "discord.js",
