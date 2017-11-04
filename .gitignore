@@ -1,5 +1,6 @@
 # Bot used for testing
 /testing-bot.js
+/plugin.js
 
 # Editors
 /.vscode
